@@ -1,0 +1,23 @@
+# Site Author
+author:
+  name: "hyein Sim"
+  avatar: ""
+  bio:
+    # "**기록이 자산!!**<br>매일 공부하고 있습니다.<br>놀기 좋아합니다."
+    # biography의 약칭으로, 자기소개를 적으시면 됩니다.
+    # 줄바꿈은 <br>로 굵은 글씨는 **글씨** 로 표기해주세요.
+  location: "Republic of Korea" # 지역 입니다.
+  email: "fnd.mnc2311@gmail.com" # 이메일 주소입니다.
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:fnd.mnc2311@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fndmnc"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: ""
+    - label: "Instagram" # 표시되는 이름입니다.
+      icon: "fab fa-fw fa-instagram" # fab fa-fw fa-{SNS NAME} 으로 해주세요.
+      url: "" # 개인 SNS 계정 링크를 기재하면 됩니다.
